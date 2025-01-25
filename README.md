@@ -10,7 +10,7 @@ Este proyecto busca analizar y predecir el uso de herramientas de inteligencia a
 3. **Evaluar y comparar** el rendimiento de los modelos predictivos.
 
 ## 📄 Encuesta
-El conjunto de datos fue generado utilizando una encuesta diseñada por el equipo. Puedes consultar el formulario de la encuesta en el siguiente enlace: [Encuesta sobre el Uso de IA en Educación Universitaria]([https://example.com/encuesta](https://docs.google.com/forms/d/e/1FAIpQLSeJudSRQhhiIjtshXcVa2j_15wrC-UqjTF4Z9QCWUbyEeVH5g/viewform)).
+El conjunto de datos fue generado utilizando una encuesta diseñada por el equipo. Puedes consultar el formulario de la encuesta en el siguiente enlace: [Encuesta sobre el Uso de IA en Educación Universitaria]([https://example.com/encuesta](https://docs.google.com/forms/d/e/1FAIpQLSeJudSRQhhiIjtshXcVa2j_15wrC-UqjTF4Z9QCWUbyEeVH5g/viewform).
 
 ## 🗂️ Dataset
 - **Origen de los datos**: Este proyecto emplea datos recolectados mediante una encuesta realizada por el equipo.
